@@ -26,7 +26,6 @@
 - Frontend Web Development  
 
 ### 📫 Connect with me
-- GitHub: https://github.com/IncharaX
 - LinkedIn: https://www.linkedin.com/in/inchara-n-k-44b503389
   
 ⭐ Thank you for visiting my profile!
