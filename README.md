@@ -1,31 +1,26 @@
-## Hi there 👋
+# Hey, I'm Inchara 👋
 
- I'm Inchara
+🎓 2nd Year Engineering Student  
+💻 Full-Stack Developer  
+🚀 Open to Internship Opportunities
 
-🎓 I am a 2nd year Engineering student with a strong interest in programming and building practical technical skills.
+### Tech Stack
+💡 Java • JavaScript • TypeScript
 
-💻 Currently learning:
-- Java
-- Object-Oriented Programming (OOP)
-- Exception Handling
-- Basics of Data Structures & Algorithms
-- Web Development (Frontend – almost completed)
+🌐 React.js • Next.js • HTML • CSS • Tailwind CSS • shadcn/ui
 
-🌐 In Web Development, I have worked with frontend technologies and am gaining hands-on experience in building responsive web pages.
+⚙️ Node.js • Express.js • REST APIs
 
-🚀 I am actively looking for opportunities such as internships, training programs, and beginner-friendly projects that help me apply my knowledge and grow as a developer.
+🗄️ MongoDB • PostgreSQL • Drizzle ORM
 
-### 🛠️ Skills
-- Java  
-- OOP Concepts  
-- Problem Solving  
-- Exception Handling  
-- HTML  
-- CSS  
-- JavaScript  
-- Frontend Web Development  
+🛠️ Git • GitHub • Postman • Vercel • Clerk
 
-### 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/inchara-n-k-44b503389
-  
-⭐ Thank you for visiting my profile!
+### Currently
+- Building Full-Stack Projects
+- Practicing DSA & Problem Solving
+- Exploring Modern Web Technologies
+
+### Connect
+🔗 LinkedIn: www.linkedin.com/in/inchara-n-k-44b503389
+
+⭐ Always Learning. Always Building.
