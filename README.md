@@ -1,6 +1,6 @@
 # Hey, I'm Inchara 👋
 
-🎓 2nd Year Engineering Student  
+🎓 3rd Year Engineering Student  
 💻 Full-Stack Developer  
 🚀 Open to Internship Opportunities
 
