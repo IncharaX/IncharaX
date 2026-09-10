@@ -17,7 +17,7 @@ An MCP server that lets AI assistants read and write to real GitHub repositories
 
 **🎤** [**PrepMate AI**](YOUR_REPO_LINK)  
 A free mock interview coaching app for students from Tier-2/3 colleges in India. Built with Next.js 14 (App Router), MongoDB, Firebase Auth, and OpenRouter (Llama 3.1).
-🌐 [Live Demo](https://prepmate-1k2hgj7d-inchara-n-k-s-projects.vercel.app/)
+🌐 Live: [prepmate-1k2hgj7d-inchara-n-k-s-projects.vercel.app](https://prepmate-1k2hgj7d-inchara-n-k-s-projects.vercel.app/)
 
 ---
 
