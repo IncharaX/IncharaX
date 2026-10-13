@@ -15,7 +15,7 @@ RAG-based AI assistant with PDF processing, hybrid retrieval, BM25, RRF, cross-e
 **🔌** [**GitHub MCP Server**](https://github.com/IncharaX/mcp-github-server)  
 An MCP server that lets AI assistants read and write to real GitHub repositories — retrieve PR details, comment on PRs, and create issues — with a confirm-before-write safety step so nothing gets posted without approval.
 
-**🎤** [**PrepMate AI**](YOUR_REPO_LINK)  
+**🎤** [**PrepMate AI**]
 A free mock interview coaching app for students from Tier-2/3 colleges in India. Built with Next.js 14 (App Router), MongoDB, Firebase Auth, and OpenRouter (Llama 3.1).
 🌐 Live: [prepmate-1k2hgj7d-inchara-n-k-s-projects.vercel.app](https://prepmate-1k2hgj7d-inchara-n-k-s-projects.vercel.app/)
 
@@ -47,6 +47,6 @@ A free mock interview coaching app for students from Tier-2/3 colleges in India.
 
 ### 📫 Connect
 
-🔗 LinkedIn: [inchara-n-k](https://www.linkedin.com/in/inchara-n-k-44b503389)
+🔗 LinkedIn: [inchara-n-k](https://www.linkedin.com/in/incharank)
 
 ⭐ Always Learning. Always Building.
